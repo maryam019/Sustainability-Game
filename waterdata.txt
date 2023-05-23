@@ -1,0 +1,12 @@
+2 min , 51 bath tubs , 1825 gallons
+4 min , 13 hot tubs , 3650 gallons
+6 min , 19 hot tubs , 5475 gallons
+8 min , 25 hot tubs , 7300 gallons
+10 min , 31 hot tubs , 9125 gallons
+12 min , 2 school buses , 10950 gallons
+14 min , 2 school buses , 12775 gallons
+16 min , 3 school buses , 14600 gallons
+18 min , 3 school buses , 16245 gallons
+20 min , 3 school buses , 18250 gallons
+
+

@@ -1,0 +1,3 @@
+eggs, bread, milk, beef, chicken, pork, fish, fruits, vegetables
+2 school buses, 20 bath tubs, 17 hot tubs, 3 school buses, 11 hot tubs, 1 schol bus, 43 bath tubs, 24 bath tubs, 4 bath tubs
+21528, 728, 5148, 22100, 3432, 8580, 1560, 884, 156
